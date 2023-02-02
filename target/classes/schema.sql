@@ -1,0 +1,5 @@
+DROP TABLE IF EXISTS superheroe;  
+CREATE TABLE superheroe (  
+id INT AUTO_INCREMENT  PRIMARY KEY,  
+nombre VARCHAR(50) NOT NULL  
+);  

@@ -1,0 +1,11 @@
+com\w2m\springboot\api\superheroes\service\SuperheroeService.class
+com\w2m\springboot\api\superheroes\service\SuperheroeServiceImpl.class
+com\w2m\springboot\api\superheroes\exceptions\ExceptionController.class
+com\w2m\springboot\api\superheroes\exceptions\MensajeError.class
+com\w2m\springboot\api\superheroes\model\Superheroe.class
+com\w2m\springboot\api\superheroes\annotation\CronometradoImpl.class
+com\w2m\springboot\api\superheroes\repository\SuperRepository.class
+com\w2m\springboot\api\superheroes\annotation\Cronometrado.class
+com\w2m\springboot\api\superheroes\controller\SuperheroeController.class
+com\w2m\springboot\api\superheroes\exceptions\ResourceNotFoundException.class
+com\w2m\springboot\api\superheroes\SpringbootApiSuperheroesApplication.class

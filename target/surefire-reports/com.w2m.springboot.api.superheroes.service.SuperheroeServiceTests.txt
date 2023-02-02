@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.w2m.springboot.api.superheroes.service.SuperheroeServiceTests
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.449 s <<< FAILURE! - in com.w2m.springboot.api.superheroes.service.SuperheroeServiceTests
+givenSuperheroeObject_whenDeleteSuperheroe_thenReturnDeletedSuperheroe  Time elapsed: 0.006 s  <<< ERROR!
+com.w2m.springboot.api.superheroes.exceptions.ResourceNotFoundException: No se ha encontrado el superheroe con ID: 0
+	at com.w2m.springboot.api.superheroes.service.SuperheroeServiceTests.givenSuperheroeObject_whenDeleteSuperheroe_thenReturnDeletedSuperheroe(SuperheroeServiceTests.java:123)
+
